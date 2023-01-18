@@ -1,0 +1,10 @@
+.card{
+  max-width: 250px;
+  display: flex;
+  justify-content: center;
+  
+}
+
+body{
+  background-color: rgba(128, 128, 128, 0.167);
+}
